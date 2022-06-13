@@ -1,0 +1,2 @@
+# 2216108_AIML_BOOTCAMP
+My assignments
